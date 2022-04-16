@@ -34,7 +34,7 @@ Build a Java application by implementing OOPS and database concept where a Hotel
 
 - Download the project and open it in your Netbeans.
 - Then connect to the oracle database using oracle thin and update the ojdbc there.
-- Then run all the `table.java` files before that change the USER and PASS from `connection.java`.
+- Then run all the `table.java` files from `./src/project` before that change the USER and PASS from `connection.java`.
 - Then perform registration and give access to user from admin panel.
   
     - To access admin panel -> Email- **admin** and Password- **admin**
