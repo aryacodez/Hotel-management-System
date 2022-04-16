@@ -42,6 +42,27 @@ Build a Java application by implementing OOPS and database concept where a Hotel
 
 **Screenshots**
 
+<p>Admin Panel</p>
+<img src = "https://github.com/aryacodez/Hotel-management-System/blob/master/screenshots/admin.JPG">
+
+<p>Login Panel</p>
+<img src = "https://github.com/aryacodez/Hotel-management-System/blob/master/screenshots/login.JPG">
+
+<p>Home Panel</p>
+<img src = "https://github.com/aryacodez/Hotel-management-System/blob/master/screenshots/Home.JPG">
+
+<p>Manage Room Panel</p>
+<img src = "https://github.com/aryacodez/Hotel-management-System/blob/master/screenshots/Manage_Rooms.JPG">
+
+<p>Check Out Panel</p>
+<img src = "https://github.com/aryacodez/Hotel-management-System/blob/master/screenshots/Check_out.JPG">
+
+<p>Transaction Management Panel</p>
+<img src = "https://github.com/aryacodez/Hotel-management-System/blob/master/screenshots/Transaction_Management.JPG">
+
+<p>Bill Format</p>
+<img src = "https://github.com/aryacodez/Hotel-management-System/blob/master/screenshots/Bill.JPG">
+
 ***********************************************************
 **Contributor**
 
