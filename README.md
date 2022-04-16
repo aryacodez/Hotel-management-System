@@ -1,4 +1,4 @@
-# Hotel-management-System
+# Hotel-Management-System
 
 **Abstract**
 
